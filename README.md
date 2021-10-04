@@ -1,1 +1,2 @@
 # typecript
+Estudo sobre TypeScript
