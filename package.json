@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Estudo sobre TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrosebs/typeScript.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrosebs/typeScript/issues"
+  },
+  "homepage": "https://github.com/barrosebs/typeScript#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
